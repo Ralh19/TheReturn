@@ -1,4 +1,4 @@
-# Unity - TheReturn Text based came - XAMK University Online Course Project
+# Unity - TheReturn text based came - XAMK University Online Course Project
 
 ## Introduction : 
 
