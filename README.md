@@ -10,7 +10,7 @@ With this project, I was able to discover the basics of Unity Engine / C#, and t
 The game mechanics are really simple: you have a basic interface devided in two zones, the display and the text input, the display the display zone is where thje whole game gonna be displayed : the text describing the situation (where you are, what do you see, where you can go), all the commandes avaliable (and the result of using them). The whole game is played by using commandes.
 The commands are :
 - `help` : *To dislay all the commands avaliable*
-- `go` ***"north","south","east","west"*** : *To go on the direction you avaliable (***north, south, east, west***) depending where you are*
+- `go` ***"north","south","east","west"*** : *To go on the direction you avaliable ***(north, south, east, west)*** depending where you are*
 - `înventory` : *To access your inventory*
 - `get` : *To get an item present where you are* 
 - `examine` : *To examine something on the location you currently are* 
