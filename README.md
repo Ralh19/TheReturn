@@ -27,14 +27,14 @@ This project is a simple text-based game made in Unity. It was one of the assign
 The game mechanics are really simple: you have a basic interface divided into two zones, the display and the text input. The display zone is where the whole game is displayed: the text describing the situation (where you are, what you see, where you can go), all the available commands (and the result of using them). The whole game is played by using commands.
 
 The commands are :
-- `help`: To display all the available commands;
-- `go` ***"north," "south," "east," "west"***: To go in the available direction (north, south, east, west) depending on where you are;
-- `inventory`: To access your inventory;
+- `help` : To display all the available commands;
+- `go` : ***"north," "south," "east," "west"***: To go in the available direction (north, south, east, west) depending on where you are;
+- `inventory` : To access your inventory;
 - `get`: To get an item present where you are;
-- `examine`: To examine something in the location you currently are;
-- `talkto`: To talk to an NPC present at your current location;
-- `say`: To say something to an NPC (after starting the dialogue with the talk command);
-- `use`: To use an item.
+- `examine` : To examine something in the location you currently are;
+- `talkto` : To talk to an NPC present at your current location;
+- `say` : To say something to an NPC (after starting the dialogue with the talk command);
+- `use` : To use an item.
 
 The objective is basically to complete the story by using all these commands correctly.
 
