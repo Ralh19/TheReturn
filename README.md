@@ -17,16 +17,16 @@
 - [**C# (CSharp)**](https://fr.wikipedia.org/wiki/C_Sharp#:~:text=C%23%20est%20un%20langage%20de,ou%20des%20bibliothèques%20de%20classes.) : Language used for all the scrips files.
 
 ---
-## Introduction: 
+## Introduction : 
 
 This project is a simple text-based game made in Unity. It was one of the assignments I had to deliver during the Free Online Course ["INTRODUCTION TO VIDEO GAMES CREATION"](https://cambridge-academy-of-gaming-and-innovation.teachable.com/p/introduction-to-video-games-creation) proposed by ["XAMK South-Eastern Finland University of Applied Sciences"](https://www.xamk.fi/en/frontpage/) (35 ECTS). With this project, I was able to discover the basics of Unity Engine / C#, and thus develop my first mobile application.
 
 ---
-## How to Play: 
+## How to Play : 
 
 The game mechanics are really simple: you have a basic interface divided into two zones, the display and the text input. The display zone is where the whole game is displayed: the text describing the situation (where you are, what you see, where you can go), all the available commands (and the result of using them). The whole game is played by using commands.
 
-The commands are:
+The commands are :
 - `help`: To display all the available commands;
 - `go` ***"north," "south," "east," "west"***: To go in the available direction (north, south, east, west) depending on where you are;
 - `inventory`: To access your inventory;
